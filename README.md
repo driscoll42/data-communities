@@ -9,6 +9,11 @@ A curated list of awesome Discord communities for developers, game engineers, ha
 ## Contents
 
 - [How to Navigate](#how-to-navigate)
+- [Machine Learning](#machine-learning)
+  - [Data Science](#data-science)
+- [Data Engineering](#data-engineering)
+- [MLOps](#mlops)
+- [Data Analytics](#data-analytics)
 - [Programming in General](#programming-in-general)
   - [Support Communities](#support-communities)
   - [Competitive Programming](#competitive-programming)
@@ -85,8 +90,6 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [Game Development Tools](#game-development-tools)
   - [Gaming on Linux](#gaming-on-linux)
 - [Virtual Reality](#virtual-reality)
-- [Machine Learning](#machine-learning)
-  - [Data Science](#data-science)
 - [Career](#career)
 - [Discord Development](#discord-development)
 - [Attribution](#attribution)
@@ -97,6 +100,72 @@ If you're familiar with other popular [awesome lists](https://github.com/sindres
 
 - A quick lookup from browser `ctrl + f` may help to find communities by a topic
 - Click on the [<img height="18px" width="18px" alt="Homepage URL" src="images/badges/homepage.webp">](#) or [<img height="18px" width="18px" alt="Git Repository" src="images/badges/git.webp">](#) icon to visit the community's official website or git repository page
+
+
+## Machine Learning
+
+[<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top">](#contents)
+
+Data manupulation and visualization, machine learning frameworks and artificial intelligence.
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_machinelearning.webp">
+
+[__/r/machinelearning__](https://discord.com/invite/FVBUKzD) \
+Notable Channels: `#quick-questions`, `#machine-learning-projects`, `#resources`, `#math-questions`, `#programming-questions`, `#andrew-ng-coursera-machine-learning` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/artificial_intelligence.webp">
+
+[__Artificial Intelligence__](https://discord.com/invite/CbVJYtz) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://discordnetwork.com/) \
+Notable Channels: `#questions`, `#machine-learning`, `#deep-learning`, `#reinforcement-learning`, `#natural-language-processing`, `#systems-neuroscience`, `#computer-vision`, __[`so much more`](badges.md#so-much-more)__ \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/sentdex.webp">
+
+[__Sentdex__](https://discord.com/invite/sentdex) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.youtube.com/user/sentdex) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/Sentdex) \
+Notable Channels: `#__main__`, `#help` \
+Language: English \
+<br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tensorflow.webp">
+
+[__TensorFlow__](https://discord.com/invite/64MVzQX) \
+Notable Channels: `#tf-general`, `#ai-ethics`, `#tensorflow-javascript`, `#tensorflow-python`, `#convolutional-neural-network`, `#recurrent-neural-network`, `#generative-adversarial-networks` \
+Language: English
+
+### Data Science
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/data_science.webp">
+
+[__Data Science__](https://discord.com/invite/UYNaemm) \
+Notable Channels: `#general`, `#machine-learning`, `#math`, `#programming`, `#career`, `#visualization`, `#resources`, `#colab`, `#papers` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/dvc.webp">
+
+[__Data Version Control__](https://discord.com/invite/dvwXA2N) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://dvc.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/iterative/dvc) \
+Notable Channels: `#q-and-a`, `#need-help`, `#general`, `#dev-talk`, `#dev-docs` \
+Language: English \
+<br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_dataisbeautiful.webp">
+
+[__r/DataIsBeautiful__](https://discord.com/invite/NRnrWE7) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/dataisbeautiful/) \
+Notable Channels: `#dataviz`, `#datascience`, `#looking-for-help` \
+Language: English \
+<br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_data_share.webp">
+
+[__The Data Share__](https://discord.com/invite/eaPVRW3) \
+Notable Channels: `#machine-learning`, `#natural-language-processing`, `#analytics`, `#programming`, `#data-engineering`, `#visualizations`, `#community` \
+Language: English
+
+## MLOps
+
+## Data Engineering
+
+## Data Analytics
 
 ## Programming in General
 
@@ -1987,65 +2056,6 @@ Language: English, Deutsch, اَلْعَرَبِيَّةُ‎, français, 汉语
 
 [__Virtual Reality__](https://discord.com/invite/virtualreality) \
 Notable Channels: `#vr-dev`, `#tech-advice`, `#oculus-quest`, `#oculus-rift`, `#oculus-go`, `#valve-index`, `#pimax-vr`, `#htc-vive`, `#windows-mixed-reality`, `#playstation-vr`, `#vr-flightsims` \
-Language: English
-
-## Machine Learning
-
-[<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top">](#contents)
-
-Data manupulation and visualization, machine learning frameworks and artificial intelligence.
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_machinelearning.webp">
-
-[__/r/machinelearning__](https://discord.com/invite/FVBUKzD) \
-Notable Channels: `#quick-questions`, `#machine-learning-projects`, `#resources`, `#math-questions`, `#programming-questions`, `#andrew-ng-coursera-machine-learning` \
-Language: English
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/artificial_intelligence.webp">
-
-[__Artificial Intelligence__](https://discord.com/invite/CbVJYtz) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://discordnetwork.com/) \
-Notable Channels: `#questions`, `#machine-learning`, `#deep-learning`, `#reinforcement-learning`, `#natural-language-processing`, `#systems-neuroscience`, `#computer-vision`, __[`so much more`](badges.md#so-much-more)__ \
-Language: English
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/sentdex.webp">
-
-[__Sentdex__](https://discord.com/invite/sentdex) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.youtube.com/user/sentdex) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/Sentdex) \
-Notable Channels: `#__main__`, `#help` \
-Language: English \
-<br>
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tensorflow.webp">
-
-[__TensorFlow__](https://discord.com/invite/64MVzQX) \
-Notable Channels: `#tf-general`, `#ai-ethics`, `#tensorflow-javascript`, `#tensorflow-python`, `#convolutional-neural-network`, `#recurrent-neural-network`, `#generative-adversarial-networks` \
-Language: English
-
-### Data Science
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/data_science.webp">
-
-[__Data Science__](https://discord.com/invite/UYNaemm) \
-Notable Channels: `#general`, `#machine-learning`, `#math`, `#programming`, `#career`, `#visualization`, `#resources`, `#colab`, `#papers` \
-Language: English
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/dvc.webp">
-
-[__Data Version Control__](https://discord.com/invite/dvwXA2N) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://dvc.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/iterative/dvc) \
-Notable Channels: `#q-and-a`, `#need-help`, `#general`, `#dev-talk`, `#dev-docs` \
-Language: English \
-<br>
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_dataisbeautiful.webp">
-
-[__r/DataIsBeautiful__](https://discord.com/invite/NRnrWE7) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/dataisbeautiful/) \
-Notable Channels: `#dataviz`, `#datascience`, `#looking-for-help` \
-Language: English \
-<br>
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_data_share.webp">
-
-[__The Data Share__](https://discord.com/invite/eaPVRW3) \
-Notable Channels: `#machine-learning`, `#natural-language-processing`, `#analytics`, `#programming`, `#data-engineering`, `#visualizations`, `#community` \
 Language: English
 
 ## Career
