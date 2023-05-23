@@ -3,7 +3,7 @@
 <!-- omit in toc -->
 #  Data Communities
 
-A curated list of Data communities for engineers, developers, project managers, and those just curious in data! Inspited by [Awesome Discord Communities](https://github.com/mhxion/awesome-discord-communities)  [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-community-slacks) and [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-community-slacks) but with a focus on data.
+A curated list of Data communities for engineers, developers, project managers, and those just curious in data! Inspited by [Awesome Discord Communities](https://github.com/mhxion/awesome-discord-communities)  and [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-community-slacks) but with a focus on data.
 
 <!-- omit in toc -->
 ## Contents
