@@ -317,4 +317,157 @@ about the notable development kit.
 
 Badge icons are made by [Freepik](https://www.flaticon.com/authors/freepik) and [Pixel Buddha](https://www.flaticon.com/authors/pixel-buddha).
 
+
+
+
+Various ones found, need to add to the above
+
+Learn AI Together  - https://www.louisbouchard.ai/ - discord.gg/learnaitogether
+13,474 members
+
+/r/LearnMachineLearning
+https://www.reddit.com/r/learnmachinelearning/
+https://discord.gg/duHMAGp
+10,161 Members
+
+Artificial Intelligence
+https://discord.sg/ai
+15,208 members
+
+Fundamentals ML
+https://discord.gg/pQFXHK4
+2383 members
+
+Artificial Intelligence Community
+https://discord.gg/HFVStFk
+2868 members
+
+ 
+TensorFlow
+https://discordapp.com/invite/7a8PCRh
+4727 members
+
+
+Data Science
+https://discordapp.com/invite/UYNaemm
+10314 members
+
+
+Towards Data Science
+https://discordapp.com/invite/eaPVRW3
+
+
+
+Python
+https://discord.gg/python
+209,444 members
+
+Reinforcement Learning Discussion
+https://discord.gg/xhfNqQv
+1796 members
+
+RL Group
+https://discord.gg/Rj92sEC
+893 members
+
+International Reinforcement Learning
+https://discord.gg/KJkfHbj
+297 members
+
+/r/Forex, /r/algotrading, /r/divdends
+https://fxgears.com/index.php?pages/trading_chatroom/
+
+
+
+/r/DataisBeautiful
+https://discord.gg/NRnrWE7
+9184 members
+
+
+Mathematics
+https://discord.com/invite/BacbVax
+56930 members
+
+
+
+Data Analytics
+https://discord.gg/VQDvrua
+
+Microsoft Python
+https://discord.com/invite/b8YJQPx
+
+Data Science/ML/AI
+https://discord.gg/v3zeSGb
+6259 members
+
+OpenmAI DALL-E 2
+
+Hugging Face
+
+ML Space
+sktime
+Analytics India Magazine
+/r/programminglanguages
+Tortoise Python Community
+The Programmer's Hangout
+Programming
+Science and Technology
+CS Career Hub
+Emulation Development
+Tableau
+discoRd
+Data Journalism
+Data Engineering
+
+
+
+
+
+The Data Share
+http://discord.gg/KcsUg4Q
+
+https://anyinstructor.com/top-10-discord-servers-for-your-data-science-discussions/
+
+
+
+
+-	Learn AI Together  - https://www.louisbouchard.ai/ - discord.gg/learnaitogether
+-	Fundamentals ML - https://discord.gg/pQFXHK4
+-	Artificial Intelligence Community - https://discord.gg/HFVStFk
+-	TensorFlow - https://discordapp.com/invite/7a8PCRh
+-	Data Science - https://discordapp.com/invite/UYNaemm
+-	Towards Data Science - https://discordapp.com/invite/eaPVRW3
+-	Python - https://discord.gg/python 
+-	Reinforcement Learning Discussion - https://discord.gg/xhfNqQv
+-	RL Group - https://discord.gg/Rj92sEC
+-	International Reinforcement Learning - https://discord.gg/KJkfHbj
+-	/r/Forex, /r/algotrading, /r/divdends - https://fxgears.com/index.php?pages/trading_chatroom/
+-	Data Analytics - https://discord.gg/VQDvrua
+-	Data Science/ML/AI - https://discord.gg/v3zeSGb
+-	OpenAI DALL-E 2
+-	Stable Diffusion - https://discord.com/invite/stablediffusion
+-	Hugging Face
+-	ML Space
+-	sktime
+-	Analytics India Magazine
+-	/r/programminglanguages
+-	Tortoise Python Community
+-	Science and Technology
+-	CS Career Hub
+-	Emulation Development
+-	Tableau
+-	discoRd
+-	Data Journalism
+-	Data Engineering
+-	CS Dojo - https://discord.gg/cnghN8T
+-	Tech with Tim - https://discord.com/invite/twt
+-	Tina’s Friends - https://discord.com/invite/5mMAtprshX
+-	Planet: Code - https://discord.gg/MyRxEUG
+
+https://anyinstructor.com/top-10-discord-servers-for-your-data-science-discussions/
+
+
+https://medium.com/geekculture/5-most-active-discord-servers-for-python-and-data-science-in-2022-d49bacda874c
+
+XDA Dev - v
 To attribute this awesome list (as restricted by the license) see [how to attribute](FAQ.md#FAQ.md#how-to-properly-attribute-to-compliment-the-license-cc-by-40).
